@@ -50,11 +50,6 @@ In the mockup the three inputs are made-up numbers in `Data.kt`. In a real versi
    - **Tools and brushes:** Games Workshop, Army Painter, Green Stuff World.
    - **Tutorials:** Open a YouTube search, in the YouTube app if it is installed (otherwise in the browser). The system Back gesture returns to Mini Companion.
 
-<!-- Add screenshots to a screenshots/ folder and uncomment:
-![Models screen](screenshots/models.png)
-![Recommendations screen](screenshots/recommendations.png)
--->
-
 ## Run it
 
 Requirements: Android Studio (built with Rabbit 2), Kotlin, Jetpack Compose, minimum SDK 26.
