@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Miniature on a round base -->
+    <path android:fillColor="#14213D" android:pathData="M25,78a17,5.5 0 1,0 34,0a17,5.5 0 1,0 -34,0z" />
+    <path android:fillColor="#F1ECDD" android:pathData="M35,64h6.5v14h-6.5z M43,64h6.5v14h-6.5z" />
+    <path android:fillColor="#F1ECDD" android:pathData="M35,45h14l2,19h-18z" />
+    <path android:fillColor="#F2B632" android:pathData="M25.5,50a6.5,6.5 0 1,0 13,0a6.5,6.5 0 1,0 -13,0z" />
+    <path android:fillColor="#F2B632" android:pathData="M45.5,50a6.5,6.5 0 1,0 13,0a6.5,6.5 0 1,0 -13,0z" />
+    <path android:fillColor="#F1ECDD" android:pathData="M35,38a7,7 0 1,0 14,0a7,7 0 1,0 -14,0z" />
+    <path android:fillColor="#14213D" android:pathData="M38,36h8v3h-8z" />
+    <!-- Paintbrush -->
+    <group android:rotation="25" android:pivotX="75" android:pivotY="55">
+        <path android:fillColor="#F1ECDD" android:pathData="M72.8,30h4.4l0.8,25h-6z" />
+        <path android:fillColor="#B8C0CC" android:pathData="M71.8,55h6.4v7h-6.4z" />
+        <path android:fillColor="#E4572E" android:pathData="M71.8,62h6.4c0,6 -1.6,12 -3.2,18c-1.6,-6 -3.2,-12 -3.2,-18z" />
+    </group>
+</vector>
